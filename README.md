@@ -18,7 +18,7 @@ A console-based ATM simulation built with Python using Object-Oriented Programmi
 
 ## How to Run
 ```bash
-python atm.py
+BankAccountEnquiry.py
 ```
 
 ## Default Credentials (for testing)
